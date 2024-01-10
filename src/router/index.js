@@ -19,7 +19,6 @@ const routes = [
         component: () => import( /* webpackChunkName: "index" */ '../views/login/index.vue')
     },
    
-   
 ]
 
 //create router
